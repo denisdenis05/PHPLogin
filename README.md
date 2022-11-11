@@ -33,13 +33,13 @@ There's no need for managing folders for upload as eveything, including images(U
 
 ### Screenshots
 <br>
-![first](https://imgur.com/YCbxDw4)
+![first](https://i.imgur.com/YCbxDw4.png)
 <br>
-![second](https://imgur.com/2Viob3F)
+![second](https://i.imgur.com/2Viob3F.png)
 <br>
-![third](https://imgur.com/oVEOINw)
+![third](https://i.imgur.com/oVEOINw.png)
 <br>
-![fourth](https://imgur.com/eIrU51r)
+![fourth](https://i.imgur.com/eIrU51r.png)
 
 # Dependencies needed:
 ## PHP:
